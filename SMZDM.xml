@@ -4,7 +4,7 @@
   <ShortName>SMZDM</ShortName>
   <Description>什么值得买</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">data:image/x-icon;base64,imageData</Image>
+  <Image width="16" height="16" type="image/x-icon">data:image/svg+xml;base64,bW9kdWxlLmV4cG9ydHMgPSBfX3dlYnBhY2tfcHVibGljX3BhdGhfXyArICJmb250cy96ZG0taWNvbnMuNGQ4MjY4YS5zdmciOw==#zdm-icon</Image>
   <Url type="text/html" method="method" template="https://search.smzdm.com/?&amp;s={searchTerms}">
   </Url>
 </OpenSearchDescription>
