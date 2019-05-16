@@ -4,7 +4,7 @@
   <ShortName>SMZDM</ShortName>
   <Description>什么值得买</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">data:image/svg+xml;base64,bW9kdWxlLmV4cG9ydHMgPSBfX3dlYnBhY2tfcHVibGljX3BhdGhfXyArICJmb250cy96ZG0taWNvbnMuNGQ4MjY4YS5zdmciOw==#zdm-icon</Image>
+  <Image width="16" height="16" type="image/x-icon">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAQCAYAAABz9a1kAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QAAAAAAAD5Q7t/AAAACXBIWXMAAAsSAAALEgHS3X78AAACAklEQVRIx3WVMXLcMAxFHzO6glOkyGVyAd8gRapUPo2bnC5VMpMUPoBEfBcEAZAra2ZXy5VEPP7/CbW3l2/PwCvwhZuj+bcAEA0Q0GhgwuT3CJDAQAYYYEIduPzcha51jPFPXT8O4FeDJ7yEvHCWHlcmwBxLSlC/IIOmFYquBOsDLiYaz3xGvB7Ak2LlqYLqqAmJ+8OLynziXpQwrer4b/kYc2Dx9cj1q8ytBYwNQrHiFkpg0AxkmwLTkgXMLZRi7mOv1IpFTQWwlbEoEBoArorcDjqZi57/MVUp9iAHuVVd/jV9s4EnZQ4Sgiw8bdmUwNUKGOkRpBYPBZQsQRoQnhlXQD2DmZYUiF53EvHsChLbYMuDPSo01JjWFM97CeFHEF0FosyhYevRvMC6C0oq43qjmdLbJZQVaOkRmzXFEqPMDYcs60dPQGuYzP/zldQt+VBs2750yjN3EHJrrGxb+UbeEs2iRE4oL7KHkvr7QztqEOFQXxtEBlTI2ppul3YB2NWZeZhhVgJFN60Q0Uf67BkZi1RDS0ue3TMAlEVD+l6KTVVK9uLFsfWMQ+e6WQJALVdTpL0FqEWjWelhi+521PPBpf/4+2a5YVPjzutl1VGswu9t4QZiHL8/6dR3nfzlFFxinnWOV/b4CF2K17e6RhO7sk9EYyttvMKpZmJtF3+An+/4+6WHtNBN7gAAAABJRU5ErkJggg==</Image>
   <Url type="text/html" method="method" template="https://search.smzdm.com/?&amp;s={searchTerms}">
   </Url>
 </OpenSearchDescription>
